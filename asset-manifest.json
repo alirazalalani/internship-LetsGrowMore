@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/internship-LetsGrowMore/static/css/main.4266ec3a.css",
+    "main.js": "/internship-LetsGrowMore/static/js/main.4da5e5bc.js",
+    "static/js/787.0fc7203f.chunk.js": "/internship-LetsGrowMore/static/js/787.0fc7203f.chunk.js",
+    "index.html": "/internship-LetsGrowMore/index.html",
+    "main.4266ec3a.css.map": "/internship-LetsGrowMore/static/css/main.4266ec3a.css.map",
+    "main.4da5e5bc.js.map": "/internship-LetsGrowMore/static/js/main.4da5e5bc.js.map",
+    "787.0fc7203f.chunk.js.map": "/internship-LetsGrowMore/static/js/787.0fc7203f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4266ec3a.css",
+    "static/js/main.4da5e5bc.js"
+  ]
+}
